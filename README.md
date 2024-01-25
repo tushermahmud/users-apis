@@ -23,4 +23,10 @@ curl --header "Content-Type: application/json" --data '{"username":"xyz","email"
 curl http://localhost:3000/user/getUser/65b17e64d40d6a525cf7398d
 ```
 
-## Support
+### Technologies user
+# Node JS
+# Express JS server
+# Typescript
+# Mongoose
+# MongoDB
+
